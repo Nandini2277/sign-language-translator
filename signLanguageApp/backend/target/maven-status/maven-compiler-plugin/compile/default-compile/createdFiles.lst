@@ -1,0 +1,7 @@
+com\signlanguage\app\controller\CameraController.class
+com\signlanguage\app\model\Gesture.class
+com\signlanguage\app\controller\GestureController.class
+com\signlanguage\app\service\GestureRecognitionService.class
+com\signlanguage\app\repository\GestureRepository.class
+com\signlanguage\app\SignLanguageApplication.class
+com\signlanguage\app\service\GestureRecognitionService$GestureResult.class
