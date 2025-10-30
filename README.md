@@ -57,6 +57,7 @@ Open frontend/index.html in your browser or use:
 bashcd frontend
 python -m http.server 3000
 Frontend runs on: http://localhost:3000
+
 📖 Usage
 Manual Mode
 
@@ -72,14 +73,6 @@ Allow camera access
 Show hand gesture to camera
 Hold steady for 2 seconds
 Translation appears automatically
-
-🤝 Contributing
-
-Fork the repository
-Create feature branch (git checkout -b feature/AmazingFeature)
-Commit changes (git commit -m 'Add AmazingFeature')
-Push to branch (git push origin feature/AmazingFeature)
-Open Pull Request
 
 📝 Future Enhancements
 
